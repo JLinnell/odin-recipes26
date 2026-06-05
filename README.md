@@ -1,6 +1,13 @@
 # odin-recipes26
-what the current project is:
+What the current project is:
+This project is designed to assess my working knowleged of HTML and Git.
 
-what skills you will have demonstrated once you have completed it:
+What skills I have demonstrated with this project:
 
-(You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+I have practiced:
+ - writing HTML boilerplate
+ - linking pages within my website
+ - working with images
+ - working with version control
+ - working with ordered and unordered lists 
+
