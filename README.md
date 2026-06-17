@@ -4,7 +4,8 @@ This project is designed to assess my working knowleged of HTML and Git.
 
 What skills I have demonstrated with this project:
 
-I have practiced:
+By completing this project I have practiced:
+
  - writing HTML boilerplate
  - linking pages within my website
  - working with images
